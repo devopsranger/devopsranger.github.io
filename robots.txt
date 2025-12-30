@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://devopsranger.github.io/sitemap.xml
